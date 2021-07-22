@@ -3,7 +3,7 @@
 I'm a software engineer at [ITO](https://ito.dev/) in Mostar, Bosnia and Herzegovina.
 
 - 🔭 I’m currently working on [BPWAM](https://github.com/salihagic/BPWAM) and [rest_api_client](https://github.com/salihagic/rest_api_client)
-- 🌱 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/) and [Flutter](https://flutter.dev/) in depth
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [.Net Core](https://docs.microsoft.com/en-us/dotnet/) in depth
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [.Net Core](https://docs.microsoft.com/en-us/dotnet/)
 - 📫 How to reach me: send an email to salih.agic@outlook.com or contact me via [linked in](https://www.linkedin.com/in/salih-agic/)
