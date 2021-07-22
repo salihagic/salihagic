@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [ITO](https://ito.dev/) in Mostar.
+I'm a software engineer at [ITO](https://ito.dev/) in Mostar, Bosnia and Herzegovina.
 
 - 🔭 I’m currently working on [BPWAM](https://github.com/salihagic/BPWAM) and [rest_api_client](https://github.com/salihagic/rest_api_client)
 - 🌱 I’m currently learning .Net Core and Flutter in depth
