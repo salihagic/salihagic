@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer at [Q Agency](https://q.agency/) in Mostar, Bosnia and Herzegovina.
+I'm a software engineer at Nucleus in Mostar, Bosnia and Herzegovina.
 
 - 🔭 I’m currently working on [abstract_bloc](https://github.com/salihagic/abstract_bloc) and [rest_api_client](https://github.com/salihagic/rest_api_client) for Flutter
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [.Net 6](https://docs.microsoft.com/en-us/dotnet/) in depth
